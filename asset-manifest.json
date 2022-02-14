@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/material-ui-practice/static/css/main.7a7380a2.css",
+    "main.js": "/material-ui-practice/static/js/main.debe2cf8.js",
+    "index.html": "/material-ui-practice/index.html",
+    "main.7a7380a2.css.map": "/material-ui-practice/static/css/main.7a7380a2.css.map",
+    "main.debe2cf8.js.map": "/material-ui-practice/static/js/main.debe2cf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7380a2.css",
+    "static/js/main.debe2cf8.js"
+  ]
+}
